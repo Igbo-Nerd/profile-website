@@ -1,0 +1,114 @@
+.profile-picture {
+    width: 15em;
+    float: none;
+}
+body {
+    text-align: center;
+    color: #20262E;
+    margin: 0;
+    background-color: #f7c8e0;
+    Font-family:'Nunito Sans','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.top-container {
+    height: 50em;
+    background-size: cover;
+    background-image: url("../website images/eveningsky.webp");
+}
+.sup-greeting {
+    position: absolute;
+    right: 37%;
+    top: 35%;
+    font-family: 'Sacramento' Arial, Helvetica, sans-serif;
+    color: #f7c8e0;
+    font-style: italic;
+    font-size: 2.6em
+
+}
+.second-greeting {
+    position: absolute;
+    right: 40%;
+    top: 47%;
+    text-decoration: none;
+    color: #f7c8e0;
+}
+.middle-container {
+    margin: 90px auto;
+    
+}
+.intro {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.skills-description {
+    width: 40%;
+    margin: auto;
+    text-align: left;
+}
+.skills-container {
+    width: 50%;
+    margin: auto;
+}
+h3 {
+color: #4e31aa;
+}
+h1 {
+    color: #4e31aa;
+}
+
+img {
+    border-radius: 30em;
+    float: left;
+}
+h2 {
+    color: #4e31aa;
+}
+p {
+  ,margin: auto;;  
+}
+hr {
+    border: dotted #bdcdd6 6px;
+    border-bottom: none;
+    border-radius: 5em;
+    width: 5%;
+    
+}
+.bottom-container {
+    background-color: #4e31aa;
+    background-size: 30em;
+    height: 3em;
+    padding-bottom: 1%;
+}
+.copyright {
+    color: #f7c8e0;
+    padding-top: 1em;
+}
+    
+
+.btn {
+    Background: #3498db;
+    Background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    Background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    Background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    Background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    Background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 28;
+    Border-radius: 12px;
+    Font-family: Georgia;
+    Color: #ffffff;
+    Font-size: 20px;
+    Padding: 10px 20px 10px 20px;
+    Text-decoration: none;
+}
+
+.btn:hover {
+    Background: #3cb0fd;
+    Background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    Background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    Background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    Background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    Background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    Text-decoration: none;
+}
