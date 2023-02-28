@@ -13,7 +13,7 @@ body {
 .top-container {
     height: 50em;
     background-size: cover;
-    background-image: url("../website images/eveningsky.webp");
+    background-image: url("./website images/eveningsky.webp");
 }
 .sup-greeting {
     position: absolute;
